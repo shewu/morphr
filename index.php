@@ -5,14 +5,16 @@
 <link href=main.css rel=stylesheet type=text/css />
 <script src=js/r.js></script>
 <script src=js/jq.js></script>
+<script src=js/jqery.fileupload.js></script>
+<script src=js/jqery.fileupload-ui.js></script>
 </head>
 <body>
 
 <article>
 <table width="800" border="0">
   <tr>
-    <td height="450"><p style=text-align:center><em>Drag an image here to upload.</em></p></td>
-    <td height="450"><p style=text-align:center><em>Drag an image here to upload.</em></p></td>
+    <td height="450" class=container><p style=text-align:center><em>Drag an image here to upload.</em></p></td>
+    <td height="450" class=container><p style=text-align:center><em>Drag an image here to upload.</em></p></td>
   </tr>
   <tr>
     <td width=500><code id="seg1">segmentsBefore=numpy.array([</code></td>
