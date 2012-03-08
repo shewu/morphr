@@ -11,8 +11,8 @@
 <article>
 <table width="800" border="0">
   <tr>
-    <td height="450"><p style=text-align:center>Drag an image here to upload.</p></td>
-    <td height="450"><p style=text-align:center>Drag an image here to upload.</p></td>
+    <td height="450"><p style=text-align:center><em>Drag an image here to upload.</em></p></td>
+    <td height="450"><p style=text-align:center><em>Drag an image here to upload.</em></p></td>
   </tr>
   <tr>
     <td width=500><code id="seg1">segmentsBefore=numpy.array([</code></td>
