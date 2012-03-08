@@ -8,7 +8,7 @@
 <body>
 
 <table width="800" border="0">
-  <tr >
+  <tr>
     <td height ="450" >&nbsp;</td>
     <td height ="450" >&nbsp;</td>
   </tr>
