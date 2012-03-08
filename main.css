@@ -9,6 +9,7 @@ article, header, footer {
 
 table {
     margin: 0 auto;
+    border: 1px solid #666;
 }
 
 footer {
