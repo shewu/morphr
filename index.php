@@ -27,6 +27,7 @@
                 }
             });
         });
+        </script>
         <p style=text-align:center><em>Drag an image here to upload.</em></p>
     </td>
     <td height="450" class=container>
