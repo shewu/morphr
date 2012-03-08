@@ -5,8 +5,8 @@
 <link href=main.css rel=stylesheet type=text/css />
 <script src=js/r.js></script>
 <script src=js/jq.js></script>
-<script src=js/jqery.fileupload.js></script>
-<script src=js/jqery.fileupload-ui.js></script>
+<script src=js/jquery.fileupload.js></script>
+<script src=js/jquery.fileupload-ui.js></script>
 </head>
 <body>
 
