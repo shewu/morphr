@@ -3,16 +3,16 @@
 <head>
 <title>6.815/6.865 Image Morphr</title>
 <link href=main.css rel=stylesheet type=text/css />
-<script src=r.js></script>
-<script src=jq.js></script>
+<script src=js/r.js></script>
+<script src=js/jq.js></script>
 </head>
 <body>
 
 <article>
 <table width="800" border="0">
   <tr>
-    <td height ="450" >&nbsp;</td>
-    <td height ="450" >&nbsp;</td>
+    <td height ="450">Drag an image here to upload.</td>
+    <td height ="450">Drag an image here to upload.</td>
   </tr>
   <tr>
     <td width=500><code id="seg1">segmentsBefore=numpy.array([</code></td>
