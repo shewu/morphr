@@ -13,8 +13,8 @@
     <td height ="450" >&nbsp;</td>
   </tr>
   <tr>
-    <td width=500><p id="seg1">segmentsBefore=numpy.array([</p></td>
-    <td width =400><p id="seg2">segmentsAfter=numpy.array([</p></td>
+    <td width=500><code id="seg1">segmentsBefore=numpy.array([</code></td>
+    <td width =400><code id="seg2">segmentsAfter=numpy.array([</code></td>
   </tr>
 </table>
 
