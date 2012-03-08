@@ -13,8 +13,25 @@
 <article>
 <table width="800" border="0">
   <tr>
-    <td height="450" class=container><p style=text-align:center><em>Drag an image here to upload.</em></p></td>
-    <td height="450" class=container><p style=text-align:center><em>Drag an image here to upload.</em></p></td>
+    <td height="450" class=container>
+        <input id=leftWell type=file name=leftFiles[] />
+        <script>
+        $(function() {
+            $('leftWell').fileupload({
+                dataType: 'json',
+                url: 'server/php/',
+                done: function(e, data) {
+                    $.each(data.result, function(index, file) {
+                        $('<p/>').text(file.name).appendTo(document.body);
+                    });
+                }
+            });
+        });
+        <p style=text-align:center><em>Drag an image here to upload.</em></p>
+    </td>
+    <td height="450" class=container>
+        <p style=text-align:center><em>Drag an image here to upload.</em></p>
+    </td>
   </tr>
   <tr>
     <td width=500><code id="seg1">segmentsBefore=numpy.array([</code></td>
