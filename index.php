@@ -2,6 +2,7 @@
 <html lang=en>
 <head>
 <title>6.815/6.865 Image Morphr</title>
+<link href=main.css rel=stylesheet type=text/css />
 <script src=raphael-min.js></script>
 </head>
 <body>
