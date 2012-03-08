@@ -11,12 +11,12 @@
 <article>
 <table width="800" border="0">
   <tr>
-    <td height ="450">Drag an image here to upload.</td>
-    <td height ="450">Drag an image here to upload.</td>
+    <td height="450"><span style=text-align:center>Drag an image here to upload.</span></td>
+    <td height="450"><span style=text-align:center>Drag an image here to upload.</span></td>
   </tr>
   <tr>
     <td width=500><code id="seg1">segmentsBefore=numpy.array([</code></td>
-    <td width =400><code id="seg2">segmentsAfter=numpy.array([</code></td>
+    <td width=400><code id="seg2">segmentsAfter=numpy.array([</code></td>
   </tr>
 </table>
 </article>
