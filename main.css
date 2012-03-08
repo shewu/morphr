@@ -7,6 +7,10 @@ article, header, footer {
     display: block;
 }
 
+table {
+    margin: 0 auto;
+}
+
 footer {
     text-align: center;
     font-size: x-small;

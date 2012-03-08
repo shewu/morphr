@@ -8,6 +8,7 @@
 </head>
 <body>
 
+<article>
 <table width="800" border="0">
   <tr>
     <td height ="450" >&nbsp;</td>
@@ -18,6 +19,7 @@
     <td width =400><code id="seg2">segmentsAfter=numpy.array([</code></td>
   </tr>
 </table>
+</article>
 
 <p id="debug"></p>
 
